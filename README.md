@@ -31,9 +31,11 @@ A personal job search tool that automatically finds relevant listings across mul
 
 ## Screenshots
 
-> _Screenshots coming soon_
+<img width="1898" height="856" alt="image" src="https://github.com/user-attachments/assets/6c9d4f49-bdc4-43ee-9775-9e96c3a30594" />
 
----
+<img width="1898" height="857" alt="image" src="https://github.com/user-attachments/assets/b19c4d77-1243-48e8-a9c6-7e4b132819d7" />
+
+![Uploading image.png…]()
 
 ## Running Locally
 
