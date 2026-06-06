@@ -1,4 +1,4 @@
-# Job Hunt HQ
+<img width="1888" height="844" alt="image" src="https://github.com/user-attachments/assets/73325b2a-453a-46d7-825a-68fa145acb99" /># Job Hunt HQ
 
 A personal job search tool that automatically finds relevant listings across multiple cities, saves them to a local database, and lets you track your application status — all from a web app running on your laptop.
 
@@ -35,7 +35,8 @@ A personal job search tool that automatically finds relevant listings across mul
 
 <img width="1898" height="857" alt="image" src="https://github.com/user-attachments/assets/b19c4d77-1243-48e8-a9c6-7e4b132819d7" />
 
-![Uploading image.png…]()
+<img width="1886" height="860" alt="image" src="https://github.com/user-attachments/assets/fee7b257-dfd0-463b-be86-13f990c2bb5d" />
+
 
 ## Running Locally
 
